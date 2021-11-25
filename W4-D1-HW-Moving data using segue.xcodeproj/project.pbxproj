@@ -13,6 +13,7 @@
 		B94261D1274BCE6200891E88 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B94261CF274BCE6200891E88 /* Main.storyboard */; };
 		B94261D3274BCE6400891E88 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B94261D2274BCE6400891E88 /* Assets.xcassets */; };
 		B94261D6274BCE6400891E88 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B94261D4274BCE6400891E88 /* LaunchScreen.storyboard */; };
+		B94261DE274BD03100891E88 /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B94261DD274BD03100891E88 /* SecondVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B94261D2274BCE6400891E88 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B94261D5274BCE6400891E88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B94261D7274BCE6400891E88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B94261DD274BD03100891E88 /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				B94261CB274BCE6200891E88 /* SceneDelegate.swift */,
 				B94261CD274BCE6200891E88 /* ViewController.swift */,
 				B94261CF274BCE6200891E88 /* Main.storyboard */,
+				B94261DD274BD03100891E88 /* SecondVC.swift */,
 				B94261D2274BCE6400891E88 /* Assets.xcassets */,
 				B94261D4274BCE6400891E88 /* LaunchScreen.storyboard */,
 				B94261D7274BCE6400891E88 /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				B94261CE274BCE6200891E88 /* ViewController.swift in Sources */,
 				B94261CA274BCE6200891E88 /* AppDelegate.swift in Sources */,
+				B94261DE274BD03100891E88 /* SecondVC.swift in Sources */,
 				B94261CC274BCE6200891E88 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
